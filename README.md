@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-🏭 Young graduate engineer from ENSEM, industrial engineering as a foundation, curiosity as a driver
+👩‍🎓 Young graduate engineer from ENSEM, industrial engineering as a foundation, curiosity as a driver
 </p>
 
 <p align="center">
