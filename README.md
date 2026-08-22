@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">**Industrial & Logistics Engineer**, curious by nature, driven by optimization</p>
+<p align="center"><strong>Industrial & Logistics Engineer</strong>, curious by nature, driven by optimization</p>
 
 ---
 
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-🛠️ Hands-on across **production**, **quality**, **maintenance**, and **smart supply chain management** — each one a different lever for the same outcome: a system that runs efficiently and reliably
+🛠️ Hands-on across <strong>production</strong>, <strong>quality</strong>, <strong>maintenance</strong>, and <strong>smart supply chain management</strong> — each one a different lever for the same outcome: a system that runs efficiently and reliably
 </p>
 
 <p align="center">
-📊 Beyond the hands-on side, what really excites me is **data analysis**, **machine learning**, and **advanced optimization** — the digital layer where industry stops reacting and starts predicting
+📊 Beyond the hands-on side, what really excites me is <strong>data analysis</strong>, <strong>machine learning</strong>, and <strong>advanced optimization</strong> — the digital layer where industry stops reacting and starts predicting
 <p align="center">
 🤖 Currently exploring how machine learning can push industrial performance even further
 </p>
