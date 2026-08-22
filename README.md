@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">Industrial & Logistics Engineer, curious by nature, driven by optimization</p>
+<p align="center">**Industrial & Logistics Engineer**, curious by nature, driven by optimization</p>
 
 ---
 
@@ -13,21 +13,15 @@
 </p>
 
 <p align="center">
-🔍 How I work: I don't take "that's how it's always been done" for an answer — I like taking a process apart to understand why it works, or doesn't
+🔍 How I work: I strip a process down to its core logic before touching anything else — master the fundamentals, and the complexity disappears
 </p>
 
 <p align="center">
-📉 Trained in Lean Six Sigma and Continuous Improvement — I turn intuition into data before making a decision
+🛠️ Hands-on across **production**, **quality**, **maintenance**, and **smart supply chain management** — each one a different lever for the same outcome: a system that runs efficiently and reliably
 </p>
 
 <p align="center">
-📊 What really excites me is data analysis — turning numbers into a story worth acting on
-</p>
-
-<p align="center">
-🚀 Passionate about advanced optimization, and how the right algorithm can turn "good enough" into "actually optimal"
-</p>
-
+📊 Beyond the hands-on side, what really excites me is **data analysis**, **machine learning**, and **advanced optimization** — the digital layer where industry stops reacting and starts predicting
 <p align="center">
 🤖 Currently exploring how machine learning can push industrial performance even further
 </p>
