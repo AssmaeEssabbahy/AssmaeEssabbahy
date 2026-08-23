@@ -42,7 +42,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,grafana,nodejs,autocad,notion" />
+    <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,grafana,nodejs,autocad,notion,java" />
 </div>
 <br/>
 <div align="center">
@@ -60,5 +60,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssmaeEssabbahy&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
+<br/><br/>
+<hr/>
 <br/><br/>
 <hr/>
