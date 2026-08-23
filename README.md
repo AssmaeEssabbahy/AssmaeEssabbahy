@@ -9,26 +9,33 @@
 ---
 
 <p align="center">
-👩‍🎓 Young graduate engineer from ENSEM, industrial engineering as a foundation, curiosity as a driver
+👩‍🎓 Young graduate engineer from ENSEM — industrial engineering as my foundation, curiosity as my driver
 </p>
 
 <p align="center">
-🔍 How I work: I strip a process down to its core logic before touching anything else — master the fundamentals, and the complexity disappears
+🔍 <strong>How I think:</strong> I strip a process down to its core logic before touching anything else — master the fundamentals, and the complexity disappears
 </p>
 
 <p align="center">
-🛠️ Hands-on across <strong>production</strong>, <strong>quality</strong>, <strong>maintenance</strong>, and <strong>smart supply chain management</strong> — each one a different lever for the same outcome: a system that runs efficiently and reliably
+🏭 <strong>Where I've built experience:</strong> production, quality, and maintenance — turning Lean Six Sigma and DMAIC into results you can actually measure
 </p>
 
 <p align="center">
-📊 Beyond the hands-on side, what really excites me is <strong>data analysis</strong>, <strong>machine learning</strong>, and <strong>advanced optimization</strong> — the digital layer where industry stops reacting and starts predicting
-<p align="center">
-🤖 Currently exploring how machine learning can push industrial performance even further
+🔗 <strong>What I care about at scale:</strong> smart supply chains — systems where information moves as efficiently as the goods themselves
 </p>
 
 <p align="center">
-⚡ Fun fact: Somewhere between ambition and patience, I'm quietly building my own Übermensch — one better day at a time
+📊 <strong>What pulls me forward:</strong> the digital layer underneath it all — data analysis, machine learning, and advanced optimization, where industry stops reacting and starts predicting
 </p>
+
+<p align="center">
+🤖 <strong>What I'm exploring next:</strong> predictive maintenance and digital twins — teaching a factory to see problems before they happen
+</p>
+
+<p align="center">
+⚡ Somewhere between ambition and patience, I'm quietly building my own Übermensch — one better day at a time
+</p>
+
 ### ⚒️ Languages - Frameworks - Tools ⚒️
 
 <p align="center">
