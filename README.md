@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-⚡ <em>"Somewhere between ambition and patience, I'm quietly building my own Übermensch — one better day at a time"</em>
+  <em>"Somewhere between ambition and patience, I'm quietly building my own Übermensch — one better day at a time"</em>
 </p>
 
 <br>
