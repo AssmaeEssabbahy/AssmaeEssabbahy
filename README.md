@@ -42,9 +42,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,grafana,nodejs,autocad,notion,java" height="48"/>
-
+    <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,grafana,nodejs,autocad,notion,java,mysql" />
 </div>
+<br/>
 
 <br/>
 <hr/>
