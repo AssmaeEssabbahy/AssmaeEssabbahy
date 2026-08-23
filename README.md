@@ -29,8 +29,28 @@
 <p align="center">
 ⚡ Fun fact: Somewhere between ambition and patience, I'm quietly building my own Übermensch — one better day at a time
 </p>
+### ⚒️ Languages - Frameworks - Tools ⚒️
 
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CATIA%20V5-005386?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Minitab-purple?style=flat-square"/>
+</p>
+
+### 🐍 My Contributions 🐍
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AssmaeEssabbahy/AssmaeEssabbahy/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+### ⚡ Stats ⚡
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AssmaeEssabbahy&show_icons=true&theme=default" alt="GitHub stats"/>
+</p>
 
 <p align="center">
   <a href="mailto:assmae.essabbahy2003@gmail.com">
