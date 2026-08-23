@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=45&duration=3000&pause=1000&color=29ABE2&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Assmae+ESSABBAHY!" alt="Typing SVG"/>
 </h1>
----
 <p align="center"><strong>Industrial & Logistics Engineer</strong>, curious by nature, driven by optimization</p>
----
 <p align="center">
 👩‍🎓 Young graduate engineer from ENSEM, industrial engineering as a foundation, curiosity as a driver
 </p>
