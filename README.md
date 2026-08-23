@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,grafana,nodejs,autocad,notion,java" height="48"/>
-    <img src="https://img.shields.io/badge/Microsoft%20Project-217346?style=flat-square&logo=microsoftproject&logoColor=white" height="48"/>
+
 </div>
 
 <br/>
