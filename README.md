@@ -163,7 +163,7 @@
 
 <br/>
 
-### `[ EXPERIENCE ]`
+### 💼 `PROFESSIONAL EXPERIENCE`
 
 <br/>
 
@@ -349,14 +349,12 @@
 
 <div align="center">
 
-<div align="center">
-
 ## 🧠 `CORE COMPETENCIES`
+
+<br/>
 
 <p>
   <em>
-    Industrial Engineering · Supply Chain · Data & AI · Industry 4.0 · Project Management
-  </em>
 </p>
 
 <br/>
