@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/assmae-essabbahy-bb686829b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portfolio-assmaeessabbahy.netlify.app">
+  <a href="https://assmaeessabbahy-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
